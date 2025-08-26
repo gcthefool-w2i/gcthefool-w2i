@@ -13,4 +13,5 @@
 <br>
 <br>
 <br>
+<br>
 <h6 align="left" <br> pfp art by @ .soda_stuff on x/twitter for the phighting commic <a href="https://boggio.net/reader/ditf">"Death in the Family"</a> ,, bio image by @ yuecc695 on youtube from video <a href="https://youtu.be/XRf599HkcKQ?si=oVCufzXQIE6CPfM-">New Regretevator NPC! | 02/15/25</a>
