@@ -8,7 +8,7 @@
 ┗━━➤ 💿 ₊˚⊹☆/ /.𖤍 ⚝ <p/>
 <h5 align="left"> For more info on me, check out <a href="https://gcthefool.straw.page">My StrawPage !</a> 
 <br>
-<br>
+<h5 align="left"> To send me something, check out <a href="https://gcthefool.atabook.org">My Atabook !</a>
 <br>
 <br>
 <br>
