@@ -1,6 +1,6 @@
 \> opening gcthefool-w2i.exe file . . .
 <hr>
-<img width="200" height="15" alt="green code border" src="https://github.com/user-attachments/assets/a019348a-f913-437f-bf59-998d40b85050" /><img width="200" height="15" alt="green code border" src="https://github.com/user-attachments/assets/a019348a-f913-437f-bf59-998d40b85050" /><img width="200" height="15" alt="green code border" src="https://github.com/user-attachments/assets/a019348a-f913-437f-bf59-998d40b85050" /><img width="200" height="15" alt="green code border" src="https://github.com/user-attachments/assets/a019348a-f913-437f-bf59-998d40b85050" /> <br>
+<img width="210" height="15" alt="green code border" src="https://github.com/user-attachments/assets/a019348a-f913-437f-bf59-998d40b85050" /><img width="210" height="15" alt="green code border" src="https://github.com/user-attachments/assets/a019348a-f913-437f-bf59-998d40b85050" /><img width="210" height="15" alt="green code border" src="https://github.com/user-attachments/assets/a019348a-f913-437f-bf59-998d40b85050" /><img width="210" height="15" alt="green code border" src="https://github.com/user-attachments/assets/a019348a-f913-437f-bf59-998d40b85050" /> <br>
 > processing. . .
 <br>
 <br>
