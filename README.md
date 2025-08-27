@@ -23,6 +23,5 @@
 <p align="left"  >> open extra_info.txt?  Y̲  N </p>
 <p align="left">  Uh haii! I tend to be offtab a lot, so if I dont immediately reply just give me a moment, I check back pretty often. I also have school so I wont be active during the times 6:00 am to 3:00 pm(sometimes 5:00-6:00 pm as I have afterschool clubs :9) Also sometimes I feel like my comments/replies might be a bit mean so if they are please tell me and I promise I didnt mean it :< I also have dark humor and I tend to copy misspellings(dw I probably misspell things too I type really fast and I aint the smartest) Uh I suspect that I have adhd and autism so yuh uhhh idk what else to say. Im silly trust !! Also kinda freaky too. idk what else to say gyulp</p>
 <br>
-<br>
 <h6 align="left" >open image_credits.txt file?  Y̲  N
 <br> pfp art by @ .soda_stuff on x/twitter for the phighting commic <a href="https://boggio.net/reader/ditf">"Death in the Family"</a> ,, bio image by @ yuecc695 on youtube from video <a href="https://youtu.be/XRf599HkcKQ?si=oVCufzXQIE6CPfM-">New Regretevator NPC! | 02/15/25</a></h6>
