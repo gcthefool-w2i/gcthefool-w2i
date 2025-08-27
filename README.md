@@ -1,6 +1,6 @@
 \> opening gcthefool-w2i.exe file . . .
 <hr>
-<img width="250" height="15" alt="green code border" src="https://github.com/user-attachments/assets/a019348a-f913-437f-bf59-998d40b85050" /><img width="250" height="15" alt="green code border" src="https://github.com/user-attachments/assets/a019348a-f913-437f-bf59-998d40b85050" /><img width="250" height="15" alt="green code border" src="https://github.com/user-attachments/assets/a019348a-f913-437f-bf59-998d40b85050" /> <br>
+<img width="200" height="15" alt="green code border" src="https://github.com/user-attachments/assets/a019348a-f913-437f-bf59-998d40b85050" /><img width="200" height="15" alt="green code border" src="https://github.com/user-attachments/assets/a019348a-f913-437f-bf59-998d40b85050" /><img width="200" height="15" alt="green code border" src="https://github.com/user-attachments/assets/a019348a-f913-437f-bf59-998d40b85050" /><img width="200" height="15" alt="green code border" src="https://github.com/user-attachments/assets/a019348a-f913-437f-bf59-998d40b85050" /> <br>
 > processing. . .
 <br>
 <br>
@@ -11,6 +11,7 @@
 <br>
 <br>
 > info.txt opening . . .
+<br>
 <br>
 <br>
 <p align="left" <br> ꒰ঌ‪ *ੈ✩‧˚ Gloomy.ᐟ┆<b>she</b> / they / <i>it</i> ໒꒱ <br>
