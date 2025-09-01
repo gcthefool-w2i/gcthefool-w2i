@@ -13,7 +13,7 @@
 ┃📟◝✩Artist ⟡ Singer ⟡ VA ✦ <br>
 ┗━━➤ 💿 ₊˚⊹☆/ /.𖤍 ⚝ <p/>
 <p align="left" >> open links.exe file?  Y̲  N </p>
-<p align="left"> <a href="https://gcthefool.straw.page">strawpage</a>  <a href="https://gcthefool.atabook.org">atabook</a> </p>
+<p align="left"> <a href="https://guns.lol/.gcthefool">Links Page</a> </p>
 <br>
 <br>
 <br>
