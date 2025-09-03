@@ -20,7 +20,7 @@
 <image align="left" width="150" height="20" alt="1x1x1x1 blinky" src="https://github.com/user-attachments/assets/00ab0570-c0de-4e82-b96e-78299985af89" /> <image align="left" width="150" height="20" alt="darkheart blinky" src="https://github.com/user-attachments/assets/defc2953-4e2a-40b3-aa38-55d21d5318eb" /><image align="left" width="150" height="20" alt="infected blinky" src="https://github.com/user-attachments/assets/045bb75a-d324-46e7-8926-afe65972f3f6" /><image align="left" width="150" height="20" alt="ahab limbus company blinky" src="https://github.com/user-attachments/assets/84a4be84-7a9b-46b2-9975-f2d36013592f" /> <image align="left" width="150" height="20" alt="scavenger rain world blinky" src="https://github.com/user-attachments/assets/04b50e3b-c84a-42a9-97c5-01463835fbaf" /> <image align="left" width="150" height="20" alt="null blinky" src="https://github.com/user-attachments/assets/03448e21-2120-47aa-9bf1-ae61f3682a10" /> <image align="left" width="150" height="20" alt="mafioso blinky" src="https://github.com/user-attachments/assets/aee0f027-d7c0-44cf-8471-3a478ea642e1" />
 <br>
 <br>
-<image align="left" width="150" height="40" alt="Its!! TV!! Time!!!" src="https://github.com/user-attachments/assets/2b9796b0-8a86-413a-bfe3-f03241a5fdf4" />
+<image align="left" width="150" height="30" alt="Its!! TV!! Time!!!" src="https://github.com/user-attachments/assets/2b9796b0-8a86-413a-bfe3-f03241a5fdf4" />
 <br>
 <br>
 <p align="left"  >> open extra_info.txt?  Y̲  N </p>
