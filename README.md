@@ -23,6 +23,7 @@
 <image align="left" width="150" height="30" alt="Its!! TV!! Time!!!" src="https://github.com/user-attachments/assets/2b9796b0-8a86-413a-bfe3-f03241a5fdf4" />
 <br>
 <br>
+<br>
 <p align="left"  >> open extra_info.txt?  Y̲  N </p>
 <p align="left" >> general_info.txt opening. . . </p>
 <p align="left">  Uh haii! I tend to be offtab a lot, so if I dont immediately reply just give me a moment, I check back pretty often. I also have school so I wont be active during the times 6:00 am to 3:00 pm(sometimes 5:00-6:00 pm as I have afterschool clubs :9) Also sometimes I feel like my comments/replies might be a bit mean so if they are please tell me and I promise I didnt mean it :< I also have dark humor and I tend to copy misspellings(dw I probably misspell things too I type really fast and I aint the smartest) Uh I suspect that I have adhd and autism so yuh uhhh idk what else to say. Im silly trust !! Also kinda freaky too. Oh uh if you need help with anything, feel free to ask em to help !! Ill do my best to !! idk what else to say gyulp</p>
