@@ -3,8 +3,6 @@
 <br>
 <br> 
 <br> > opening info.txt . . .
-<br> .
-<br> .
 <pre>
 <h3>꒰ঌ‪ *ੈ✩‧˚.gcthefool ,, Gloomy.ᐟ.ᐟ ໒꒱</h3>
 <p>✦𓂃𓈒𓏸︎︎︎︎ 📺 <b>she</b>/<u>they</u>/<i>it</i> ⟡ 3/29 ⟡ Minor ⟡ ISFP ✦</p>
