@@ -9,4 +9,4 @@
 <p>✦𓂃𓈒𓏸︎︎︎︎ 📺 <b>she</b>/<u>they</u>/<i>it</i> ⟡ 3/29 ⟡ Minor ⟡ ISFP ✦</p>
 <p>┃📟◝✩ Artist ⟡ Singer ⟡ VA✦</p>
 <p>┗━━➤ 💿 ₊˚⊹☆/ /.𖤍 ⚝</p>
-<img width="500" height="75" align="right" alt="border" src="https://github.com/user-attachments/assets/f9786fe0-8cc5-4741-a02a-9c6ca92ecde7" />
+<img width="500" height="75" align="right" position="relative" up="30px" alt="border" src="https://github.com/user-attachments/assets/f9786fe0-8cc5-4741-a02a-9c6ca92ecde7" />
