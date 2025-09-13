@@ -9,4 +9,9 @@
 <p>✦𓂃𓈒𓏸︎︎︎︎ 📺 <b>she</b>/<u>they</u>/<i>it</i> ⟡ 3/29 ⟡ Minor ⟡ ISFP ✦</p>
 <p>┃📟◝✩ Artist ⟡ Singer ⟡ VA✦</p>
 <p>┗━━➤ 💿 ₊˚⊹☆/ /.𖤍 ⚝</p>
+<div align="center" overflow="auto" max-height="50px" max-width="250"
+  blah blah blah
+  bleh bleh bleh
+  bloo bloo bloo
+  </div>
 <img width="500" height="75" align="right"  alt="border" src="https://github.com/user-attachments/assets/f9786fe0-8cc5-4741-a02a-9c6ca92ecde7" />
