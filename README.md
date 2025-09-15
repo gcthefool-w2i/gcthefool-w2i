@@ -1,5 +1,5 @@
 <img width="989" height="117" alt="border" src="https://github.com/user-attachments/assets/f9786fe0-8cc5-4741-a02a-9c6ca92ecde7" />
-<img width="400" height="400" align="left" alt="fixed gc art edit (1)" src="https://github.com/user-attachments/assets/f8a4177b-3d20-438a-ac11-8dadeb7fc7bd" />
+<img width="350" height="350" align="left" alt="fixed gc art edit (1)" src="https://github.com/user-attachments/assets/f8a4177b-3d20-438a-ac11-8dadeb7fc7bd" />
 <br>
 <br> 
 <br> > opening info.txt . . .
