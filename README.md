@@ -2,7 +2,7 @@
 <img width="350" height="350" align="left" alt="fixed gc art edit (1)" src="https://github.com/user-attachments/assets/f8a4177b-3d20-438a-ac11-8dadeb7fc7bd" />
 <br>
 <br> 
-<br> <h6> opening info.txt . . .</h6>
+<br> <h6> > opening info.txt . . .</h6>
 <h3>꒰ঌ‪ *ੈ✩‧˚.gcthefool ,, Gloomy.ᐟ.ᐟ ໒꒱</h3>
 <p>✦𓂃𓈒𓏸︎︎︎︎ 📺 <b>she</b>/<u>they</u>/<i>it</i> ⟡ 3/29 ⟡ Minor ⟡ ISFP ✦</p>
 <p>┃📟◝✩ Artist ⟡ Singer ⟡ VA✦</p>
